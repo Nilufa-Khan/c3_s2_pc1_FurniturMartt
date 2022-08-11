@@ -16,7 +16,7 @@ public class FurnitureItem {
     }
     public double calculation(double discount){
         double result = 0.0;
-        if(furnitureUsages.equals("Outdoor")){
+        if(furnitureUsages == "Outdoor"){
             result = price - ((price * discount) / 100);
         }
         return  result;
