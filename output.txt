@@ -1,0 +1,7 @@
+"C:\Program Files\Java\jdk-18.0.2\bin\java.exe" "-javaagent:C:\Users\NILUFA KHAN\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\222.3345.118\lib\idea_rt.jar=50832:C:\Users\NILUFA KHAN\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\222.3345.118\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\NILUFA KHAN\Desktop\Project\Course3\Sprint2\c3_s2_pc1_FurniturMart\out\production\c3_s2_pc1_FurniturMart" FurnitureItemIml
+Furniture code = 123
+Furniture type = Tables
+Furniture grade = 2
+Furniture usages = Outdoor
+Furniture price = 1000.0
+After discount = 950.0
